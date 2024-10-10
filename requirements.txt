@@ -1,0 +1,6 @@
+selenium==4.11.2
+streamlit==1.25.0
+python-dotenv==1.0.0
+langchain==0.0.304
+openai==0.28.1
+tiktoken==0.4.0
